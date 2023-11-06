@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" onmouseup="{ if(window.parent.document.onmouseup) window.parent.document.onmouseup(arguments[0]);}" viewBox="0 0 321.17 446.81" data-name="Layer 2" id="Layer_2"><defs><style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: #393e3e;
+      }
+
+      .cls-2 {
+        font-size: 44.16px;
+      }
+
+      .cls-2, .cls-3 {
+        font-family: CooperBlack, 'Cooper Black';
+      }
+
+      .cls-5 {
+        letter-spacing: .18em;
+      }
+
+      .cls-3 {
+        font-size: 38.36px;
+      }
+
+      .cls-6 {
+        letter-spacing: .2em;
+      }
+
+      .cls-7 {
+        fill: #af7568;
+      }
+
+      .cls-8 {
+        letter-spacing: .13em;
+      }
+    </style></defs><g data-name="Layer 1" id="Layer_1-2"><polygon data-cppathid="10000" points="319.87 0 2.14 0 2.14 349.5 2.56 349.5 2.56 446.81 71.41 446.81 71.41 349.5 255.9 349.5 255.9 446.81 321.17 446.81 319.87 0" class="cls-7"/><g><rect data-cppathid="10001" height="313.15" width="281.94" y="15.87" x="18.84" class="cls-4"/><path data-cppathid="10002" d="M299.76,16.89V328H19.86V16.89H299.76m2.04-2.04H17.82V330.04H301.8V14.85h0Z" class="cls-1"/></g><text data-cppathid="10003" transform="translate(31.43 172.2) rotate(-54.81) scale(1.05 1)" class="cls-3"><tspan data-cppathid="10004" y="0" x="0"> </tspan></text><text data-cppathid="10005" transform="translate(41.74 158.32) rotate(-48.07) scale(1.05 1)" class="cls-3"><tspan data-cppathid="10006" y="0" x="0"> </tspan></text><text data-cppathid="10007" transform="translate(52.78 145.39) rotate(-37.21) scale(1.05 1)" class="cls-3"><tspan data-cppathid="10008" y="0" x="0">K</tspan></text><text data-cppathid="10009" transform="translate(83.65 122.78) rotate(-22.99) scale(1.05 1)" class="cls-3"><tspan data-cppathid="10010" y="0" x="0">U</tspan></text><text data-cppathid="10011" transform="translate(120.61 108.43) rotate(-9.81) scale(1.05 1)" class="cls-3"><tspan data-cppathid="10012" y="0" x="0">L</tspan></text><text data-cppathid="10013" transform="translate(152.59 103.9) rotate(.19) scale(1.05 1)" class="cls-3"><tspan data-cppathid="10014" y="0" x="0">I</tspan></text><text data-cppathid="10015" transform="translate(176.2 103.83) rotate(11.83) scale(1.05 1)" class="cls-3"><tspan data-cppathid="10016" y="0" x="0">N</tspan></text><text data-cppathid="10017" transform="translate(215.1 113.13) rotate(25.67) scale(1.05 1)" class="cls-3"><tspan data-cppathid="10018" y="0" x="0">E</tspan></text><text data-cppathid="10019" transform="translate(245.93 128.6) rotate(39.38) scale(1.05 1)" class="cls-3"><tspan data-cppathid="10020" y="0" x="0">R</tspan></text><text data-cppathid="10021" transform="translate(62.63 238.64)" class="cls-2"><tspan data-cppathid="10022" y="0" x="0" class="cls-6">E</tspan><tspan data-cppathid="10023" y="0" x="39.34" class="cls-5">R</tspan><tspan data-cppathid="10024" y="0" x="81.35" class="cls-6">O</tspan><tspan data-cppathid="10025" y="0" x="124.55" class="cls-8">P</tspan><tspan data-cppathid="10026" y="0" x="160.29" class="cls-6">A</tspan></text></g></svg>

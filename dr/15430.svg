@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" onmouseup="{ if(window.parent.document.onmouseup) window.parent.document.onmouseup(arguments[0]);}" viewBox="0 0 20.83 20.83" data-name="Layer 2" id="Layer_2"><defs><style>
+      .cls-1 {
+        fill: #ee3f6c;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        opacity: .1;
+      }
+    </style></defs><g data-name="Layer 1" id="Layer_1-2"><g><g id="search_button"><g><circle data-cppathid="10000" r="9.5" cy="10.42" cx="10.42" class="cls-1"/><path data-cppathid="10001" d="m10.42.91c5.25,0,9.5,4.25,9.5,9.5s-4.25,9.5-9.5,9.5S.91,15.66.91,10.42,5.17.91,10.42.91m0-.91C4.67,0,0,4.67,0,10.42s4.67,10.42,10.42,10.42,10.42-4.67,10.42-10.42S16.16,0,10.42,0h0Z" class="cls-2"/><path data-cppathid="10002" d="m14.19,13.87c-5.91,0-10.91-2.88-12.64-6.87-.41,1.06-.64,2.21-.64,3.41,0,5.25,4.25,9.5,9.5,9.5,4.34,0,7.99-2.91,9.13-6.89-1.64.54-3.45.84-5.36.84Z" class="cls-3"/></g></g><path data-cppathid="10003" d="m11.87,5.92l-1.63,2.11-1.78-1.78c-.67-.67-1.76-.67-2.43,0l-.78.78c-.73.73-.66,1.94.16,2.57l2.26,1.75-1.13,1.46c-.53.68-.47,1.65.14,2.27h0c.67.67,1.76.67,2.43,0l1.47-1.47,1.72,1.33c.68.53,1.65.47,2.27-.14h0c.67-.67.67-1.76,0-2.43l-1.37-1.37,2.03-2.03c.67-.67.67-1.76,0-2.43l-.78-.78c-.73-.73-1.94-.66-2.57.16Z" class="cls-2"/></g></g></svg>

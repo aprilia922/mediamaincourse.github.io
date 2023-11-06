@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" onmouseup="{ if(window.parent.document.onmouseup) window.parent.document.onmouseup(arguments[0]);}" viewBox="0 0 1041.22 144.5" data-name="Layer 2" id="Layer_2"><defs><style>
+      .cls-1 {
+        fill: #597174;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #f5f6f6;
+      }
+
+      .cls-3 {
+        fill: #d2d0cf;
+      }
+
+      .cls-3, .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-4 {
+        fill: #727375;
+      }
+    </style></defs><g data-name="Layer 1" id="Layer_1-2"><g data-name="jalan trotoar" id="jalan_trotoar"><path data-cppathid="10000" d="m9.92,0h1022.6c3.03,0,5.96.4,8.7,1.14v43.05c-2.74.74-5.67,1.14-8.7,1.14H9.92c-3.03,0-5.96-.4-8.7-1.14V1.14C3.96.4,6.89,0,9.92,0Z" class="cls-3"/><rect data-cppathid="10001" height="100.17" width="1041.22" y="44.33" class="cls-1"/><path data-cppathid="10002" d="m1041.22,45.73c-2.74.39-5.67.6-8.7.6H9.92c-3.03,0-5.96-.21-8.7-.6v-2.56h1040v2.56Z" class="cls-4"/><g data-name="titik jalan" id="titik_jalan"><rect data-cppathid="10003" height="5.66" width="52.32" y="91.59" x="25.67" class="cls-2"/><rect data-cppathid="10004" height="5.66" width="52.32" y="91.59" x="110.26" class="cls-2"/><rect data-cppathid="10005" height="5.66" width="52.32" y="91.59" x="194.86" class="cls-2"/><rect data-cppathid="10006" height="5.66" width="52.32" y="91.59" x="279.46" class="cls-2"/><rect data-cppathid="10007" height="5.66" width="52.32" y="91.59" x="364.05" class="cls-2"/><rect data-cppathid="10008" height="5.66" width="52.32" y="91.59" x="448.65" class="cls-2"/><rect data-cppathid="10009" height="5.66" width="52.32" y="91.59" x="533.25" class="cls-2"/><rect data-cppathid="10010" height="5.66" width="52.32" y="91.59" x="617.84" class="cls-2"/><rect data-cppathid="10011" height="5.66" width="52.32" y="91.59" x="702.44" class="cls-2"/><rect data-cppathid="10012" height="5.66" width="52.32" y="91.59" x="787.04" class="cls-2"/><rect data-cppathid="10013" height="5.66" width="52.32" y="91.59" x="870.39" class="cls-2"/><rect data-cppathid="10014" height="5.66" width="52.32" y="91.59" x="954.99" class="cls-2"/></g></g></g></svg>

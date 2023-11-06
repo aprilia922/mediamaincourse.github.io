@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" onmouseup="{ if(window.parent.document.onmouseup) window.parent.document.onmouseup(arguments[0]);}" viewBox="0 0 20.83 20.83" data-name="Layer 2" id="Layer_2"><defs><style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #c48175;
+      }
+
+      .cls-3 {
+        opacity: .1;
+      }
+    </style></defs><g data-name="Layer 1" id="Layer_1-2"><g id="next_button"><g><circle data-cppathid="10000" r="9.5" cy="10.42" cx="10.42" class="cls-2"/><path data-cppathid="10001" d="m10.42.91c5.25,0,9.5,4.25,9.5,9.5s-4.25,9.5-9.5,9.5S.91,15.66.91,10.42,5.17.91,10.42.91m0-.91C4.67,0,0,4.67,0,10.42s4.67,10.42,10.42,10.42,10.42-4.67,10.42-10.42S16.16,0,10.42,0h0Z" class="cls-1"/><path data-cppathid="10002" d="m14.19,13.87c-5.91,0-10.91-2.88-12.64-6.87-.41,1.06-.64,2.21-.64,3.41,0,5.25,4.25,9.5,9.5,9.5,4.34,0,7.99-2.91,9.13-6.89-1.64.54-3.45.84-5.36.84Z" class="cls-3"/></g></g></g></svg>

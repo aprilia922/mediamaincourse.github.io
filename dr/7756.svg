@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" onmouseup="{ if(window.parent.document.onmouseup) window.parent.document.onmouseup(arguments[0]);}" viewBox="0 0 1040 585" data-name="Layer 2" id="Layer_2" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+        stroke-width: 0px;
+      }
+    </style><linearGradient gradientUnits="userSpaceOnUse" y2="560.44" x2="520" y1="47.11" x1="520" id="linear-gradient"><stop stop-color="#3c98b9" offset="0"/><stop stop-color="#4497b5" offset=".01"/><stop stop-color="#7393a3" offset=".1"/><stop stop-color="#979094" offset=".18"/><stop stop-color="#b18e8a" offset=".25"/><stop stop-color="#c18d84" offset=".32"/><stop stop-color="#c78d82" offset=".37"/><stop stop-color="#cf9f85" offset=".46"/><stop stop-color="#d7af89" offset=".56"/><stop stop-color="#dab68b" offset=".65"/></linearGradient></defs><g data-name="Layer 1" id="Layer_1-2"><rect data-cppathid="10000" height="585" width="1040" class="cls-1"/></g></svg>

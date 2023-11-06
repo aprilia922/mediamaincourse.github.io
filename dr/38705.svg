@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" onmouseup="{ if(window.parent.document.onmouseup) window.parent.document.onmouseup(arguments[0]);}" viewBox="0 0 181.3 40.35" data-name="Layer 2" id="Layer_2"><defs><style>
+      .cls-1 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #db6a64;
+      }
+
+      .cls-2, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+        stroke-width: 0px;
+      }
+
+      .cls-9 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        font-family: Montserrat-Bold, Montserrat;
+        font-size: 14px;
+        font-weight: 700;
+      }
+
+      .cls-4 {
+        fill: #ddd;
+      }
+
+      .cls-5 {
+        fill: #6d7271;
+      }
+
+      .cls-6, .cls-7 {
+        fill: #fff;
+      }
+
+      .cls-7 {
+        opacity: .34;
+      }
+
+      .cls-10 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-11 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-8 {
+        fill: #994a46;
+      }
+    </style></defs><g data-name="Layer 1" id="Layer_1-2"><g><path data-cppathid="10000" d="m29.7.07h131.06c11.34,0,20.54,9.2,20.54,20.54h0c0,10.89-8.85,19.74-19.74,19.74H29.7c-6.37,0-11.54-5.17-11.54-11.54V11.61C18.15,5.24,23.33.07,29.7.07Z" class="cls-5"/><path data-cppathid="10001" d="m14.51,0h143.48C169.33,0,178.54,9.2,178.54,20.54h0c0,10.89-8.85,19.74-19.74,19.74H14.51V0h0Z" class="cls-4"/><polygon data-cppathid="10002" points="37.01 .07 13.75 .07 2.13 20.21 13.75 40.35 37.01 40.35 48.64 20.21 37.01 .07" class="cls-8"/><text data-cppathid="10003" transform="translate(53.25 25.3)" class="cls-3"><tspan data-cppathid="10004" y="0" x="0" class="cls-11">E</tspan><tspan data-cppathid="10005" y="0" x="9.25" class="cls-10">V</tspan><tspan data-cppathid="10006" y="0" x="19.17">A</tspan><tspan data-cppathid="10007" y="0" x="29.89" class="cls-9">L</tspan><tspan data-cppathid="10008" y="0" x="38.22" class="cls-1">U</tspan><tspan data-cppathid="10009" y="0" x="49.04">ASI</tspan></text><polygon data-cppathid="10010" points="34.88 0 11.63 0 0 20.14 11.63 40.28 34.88 40.28 46.51 20.14 34.88 0" class="cls-2"/><g><path data-cppathid="10011" d="m165.24,31.43c0,1.29,1.05,2.34,2.34,2.34s2.34-1.05,2.34-2.34-1.05-2.34-2.34-2.34-2.34,1.05-2.34,2.34Z" class="cls-7"/><path data-cppathid="10012" d="m154.94,35.73c.35,1.01,4.39.54,6.88-.74.97-.5,1.44-.98,1.55-1.55.14-.71-.25-1.55-.76-1.9-1.99-1.37-8.14,2.83-7.67,4.19Z" class="cls-7"/></g><g><path data-cppathid="10013" d="m31.33,10.97h-12.56c-2.05,0-3.72,1.67-3.72,3.72v12.56c0,2.05,1.67,3.72,3.72,3.72h12.56c2.05,0,3.72-1.67,3.72-3.72v-12.56c0-2.05-1.67-3.72-3.72-3.72Zm2.66,16.28c0,1.47-1.19,2.66-2.66,2.66h-12.56c-1.47,0-2.66-1.19-2.66-2.66v-12.56c0-1.47,1.19-2.66,2.66-2.66h12.56c1.47,0,2.66,1.19,2.66,2.66v12.56Z" class="cls-6"/><path data-cppathid="10014" d="m31.17,15.53h-7.63c-.29,0-.53.24-.53.53s.24.53.53.53h7.63c.29,0,.53-.24.53-.53s-.24-.53-.53-.53Z" class="cls-6"/><path data-cppathid="10015" d="m31.17,20.36h-7.63c-.29,0-.53.24-.53.53s.24.53.53.53h7.63c.29,0,.53-.24.53-.53s-.24-.53-.53-.53Z" class="cls-6"/><path data-cppathid="10016" d="m31.17,25.18h-7.63c-.29,0-.53.24-.53.53s.24.53.53.53h7.63c.29,0,.53-.24.53-.53s-.24-.53-.53-.53Z" class="cls-6"/><path data-cppathid="10017" d="m21.81,16.19c-.29,0-.53.24-.53.53v.25h-1.82v-1.39c0-.29-.24-.53-.53-.53s-.53.24-.53.53v1.92c0,.29.24.53.53.53h2.88c.29,0,.53-.24.53-.53v-.78c0-.29-.24-.53-.53-.53Z" class="cls-6"/><path data-cppathid="10018" d="m21.81,18.92h-2.88c-.29,0-.53.24-.53.53v2.88c0,.29.24.53.53.53h2.88c.29,0,.53-.24.53-.53v-2.88c0-.29-.24-.53-.53-.53Zm-.53,2.88h-1.82v-1.82h1.82v1.82Z" class="cls-6"/><path data-cppathid="10019" d="m21.81,23.74h-2.88c-.29,0-.53.24-.53.53v2.88c0,.29.24.53.53.53h2.88c.29,0,.53-.24.53-.53v-2.88c0-.29-.24-.53-.53-.53Zm-.53,2.88h-1.82v-1.82h1.82v1.82Z" class="cls-6"/><path data-cppathid="10020" d="m22.37,12.19c-.27-.11-.58.02-.69.29l-1.01,2.44-.5-1.14c-.12-.27-.43-.39-.7-.27-.27.12-.39.43-.27.7l1.01,2.27c.09.19.28.32.49.32,0,0,0,0,0,0,.21,0,.4-.13.48-.33l1.48-3.59c.11-.27-.02-.58-.29-.69Z" class="cls-6"/></g></g></g></svg>

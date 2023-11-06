@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" onmouseup="{ if(window.parent.document.onmouseup) window.parent.document.onmouseup(arguments[0]);}" viewBox="0 0 181.3 40.35" data-name="Layer 2" id="Layer_2"><defs><style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        fill: #1e4841;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: #ddd;
+      }
+
+      .cls-4 {
+        fill: #6d7271;
+      }
+
+      .cls-5, .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-6 {
+        opacity: .34;
+      }
+
+      .cls-8 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-9 {
+        letter-spacing: 0em;
+      }
+
+      .cls-10 {
+        font-family: Montserrat-Bold, Montserrat;
+        font-size: 14px;
+        font-weight: 700;
+      }
+
+      .cls-10, .cls-7 {
+        fill: #2c675e;
+      }
+
+      .cls-11 {
+        letter-spacing: -.01em;
+      }
+    </style></defs><g data-name="Layer 1" id="Layer_1-2"><g><path data-cppathid="10000" d="m29.7.07h131.06c11.34,0,20.54,9.2,20.54,20.54h0c0,10.89-8.85,19.74-19.74,19.74H29.7c-6.37,0-11.54-5.17-11.54-11.54V11.61C18.15,5.24,23.33.07,29.7.07Z" class="cls-4"/><path data-cppathid="10001" d="m14.51,0h143.48C169.33,0,178.54,9.2,178.54,20.54h0c0,10.89-8.85,19.74-19.74,19.74H14.51V0h0Z" class="cls-3"/><polygon data-cppathid="10002" points="37.01 .07 13.75 .07 2.13 20.21 13.75 40.35 37.01 40.35 48.64 20.21 37.01 .07" class="cls-2"/><text data-cppathid="10003" transform="translate(53.25 25.3)" class="cls-10"><tspan data-cppathid="10004" y="0" x="0" class="cls-11">P</tspan><tspan data-cppathid="10005" y="0" x="10.11">EN</tspan><tspan data-cppathid="10006" y="0" x="30.81" class="cls-11">D</tspan><tspan data-cppathid="10007" y="0" x="42.24">AHU</tspan><tspan data-cppathid="10008" y="0" x="75.31" class="cls-1">L</tspan><tspan data-cppathid="10009" y="0" x="83.64" class="cls-8">U</tspan><tspan data-cppathid="10010" y="0" x="94.46" class="cls-9">AN</tspan></text><polygon data-cppathid="10011" points="34.88 0 11.63 0 0 20.14 11.63 40.28 34.88 40.28 46.51 20.14 34.88 0" class="cls-7"/><g><path data-cppathid="10012" d="m165.24,31.43c0,1.29,1.05,2.34,2.34,2.34s2.34-1.05,2.34-2.34-1.05-2.34-2.34-2.34-2.34,1.05-2.34,2.34Z" class="cls-6"/><path data-cppathid="10013" d="m154.94,35.73c.35,1.01,4.39.54,6.88-.74.97-.5,1.44-.98,1.55-1.55.14-.71-.25-1.55-.76-1.9-1.99-1.37-8.14,2.83-7.67,4.19Z" class="cls-6"/></g><g><path data-cppathid="10014" d="m27.25,27.44h-5.99c-1.48,0-2.68,1.2-2.68,2.68h11.35c0-1.48-1.2-2.68-2.68-2.68Z" class="cls-5"/><rect data-cppathid="10015" height="2.03" width="3.49" y="24.84" x="22.51" class="cls-5"/><path data-cppathid="10016" d="m33.75,10.31H14.76c-.28,0-.51.23-.51.51v12.87c0,.28.23.51.51.51h18.99c.28,0,.51-.23.51-.51v-12.87c0-.28-.23-.51-.51-.51Zm-1.44,11.43c0,.28-.23.51-.52.51h-15.08c-.28,0-.52-.23-.52-.51v-8.97c0-.28.23-.51.52-.51h15.08c.28,0,.52.23.52.51v8.97Z" class="cls-5"/></g></g></g></svg>

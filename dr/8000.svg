@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" onmouseup="{ if(window.parent.document.onmouseup) window.parent.document.onmouseup(arguments[0]);}" viewBox="0 0 30.43 180" data-name="Layer 2" id="Layer_2"><defs><style>
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-1, .cls-3 {
+        fill: #797d7e;
+      }
+
+      .cls-2 {
+        fill: #fed241;
+      }
+
+      .cls-2, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-4 {
+        fill: #525353;
+      }
+    </style></defs><g data-name="Layer 1" id="Layer_1-2"><g><rect data-cppathid="10000" height="84.23" width="5.37" y="36.7" x="12.53" class="cls-1"/><polygon data-cppathid="10001" points="1.9 11.53 8.56 0 21.87 0 28.53 11.53 21.87 38.28 8.56 38.28 1.9 11.53" class="cls-2"/><rect data-cppathid="10002" height="2.68" width="16.67" y="36.7" x="6.88" class="cls-4"/><rect data-cppathid="10003" height="27.58" width="2.69" y="11.19" x="13.87" class="cls-4"/><polygon data-cppathid="10004" points="1.9 11.53 8.56 0 21.87 0 28.53 11.53 1.9 11.53" class="cls-3"/><rect data-cppathid="10005" height="4.25" width="30.43" y="8.73" class="cls-4"/><rect data-cppathid="10006" height="14.77" width="9.62" y="106.17" x="10.4" class="cls-4"/><rect data-cppathid="10007" height="55.04" width="16.78" y="120.93" x="6.82" class="cls-4"/><rect data-cppathid="10008" height="4.25" width="26.85" y="175.75" x="1.79" class="cls-4"/></g></g></svg>
